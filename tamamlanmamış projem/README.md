@@ -1,2 +1,3 @@
-# Template
-Tamamlanmış ya da yarı tamamlanmış website örneklerimi bu depo altında toplayacagım.
+# PHP
+Proje ödevi olarak aldığım bir sitenin tasarımını içermektedir. Veri tabanı işlemleri devam etmektedir.
+
