@@ -1,0 +1,257 @@
+.ust{
+height:40;
+background-color:#222;
+}
+.ust1{
+width:56.5%;
+height:40;
+background-color:#222;
+float:left;
+}
+.ust2{
+width:43.5%;
+height:40;
+background-color:#222;
+float:left;
+}
+.ulli {    
+margin:0;
+float: right;
+list-style: none outside none;
+color:white;
+}
+.liul{    
+letter-spacing:0.2;
+height:40;
+padding:0 15 0 15;
+float: right;
+position: relative;
+display: inline;
+margin: 0 0 0 2;
+font-size:10;
+font-family:Arial,Helvetica,sans-serif;
+}
+.liul:hover{
+background-color:#039dff;
+}
+p{margin:15 0 0 0;}
+body{margin: 0 0;}
+.yan{
+float:left;
+margin:0 0 0 30;
+color:#e9eced;
+font-size:9.5;
+letter-spacing:0;
+}
+.satis{
+height:125;
+
+}
+.logo{
+	height:125;
+	float:left;
+	width:40%;
+	text-indent:455;
+
+}
+.arama{
+	float:left;
+	width:23%;
+	height:125;
+	
+
+}
+.inputtext{
+	width:210; 
+	border-color:#c6c6c6; 
+	height:40;
+	float:left;
+	box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border: 1px solid #C2C2C2;
+    box-shadow: 1px 1px 4px #EBEBEB;
+    -moz-box-shadow: 1px 1px 4px #EBEBEB;
+    -webkit-box-shadow: 1px 1px 4px #EBEBEB;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+	margin:45 0 0 180;
+	border-right-color:white;
+	text-indent:20;
+	
+}
+.inputbutton{
+	border-left-color:white;
+	width:40; 
+	border-color:#c6c6c6; 
+	height:40; 
+	float:left;
+	margin:45 0 0 0;
+	box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border: 1px solid #C2C2C2;
+    box-shadow: 1px 1px 4px #EBEBEB;
+    -moz-box-shadow: 1px 1px 4px #EBEBEB;
+    -webkit-box-shadow: 1px 1px 4px #EBEBEB;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+	
+	background-image:url(resim/arama.png);
+	
+}
+.sepet{
+	
+	float:left;
+	width:37%;
+	height:125;
+}
+.inputsepet{
+		width:45; 
+	border-color:#c6c6c6; 
+	height:40; 
+	float:left;
+	margin:45 0 0 0;
+	box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border: 1px solid #C2C2C2;
+    box-shadow: 1px 1px 4px #EBEBEB;
+    -moz-box-shadow: 1px 1px 4px #EBEBEB;
+    -webkit-box-shadow: 1px 1px 4px #EBEBEB;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+	border-left-style:red sloid 0;
+	background-image:url(resim/sepet.png);
+	
+}
+
+.kkk{
+	width:195; 
+	border-color:#c6c6c6; 
+	height:40; 
+	float:left;
+	margin:45 0 0 0;
+	box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border: 1px solid #C2C2C2;
+   
+    -moz-box-shadow: 1px 1px 4px #EBEBEB;
+    -webkit-box-shadow: 1px 1px 4px #EBEBEB;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+	
+	background-color:white;
+		
+}
+
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: none;}
+a:active {text-decoration: none;}
+	a{
+		color:white;
+		font-size:10;
+		font-family:Arial,Helvetica,sans-serif;
+		
+		}
+.ustmavipanel{
+width:51.8%;
+height:50;
+background-color:039ddf;
+	
+}
+table{  
+border-collapse:collapse;
+width:985;
+height:50;
+border:0 solid #039ddf;
+font-size:12;
+background-color:039ddf;
+color:white;
+}
+td{
+padding:0 15 0 15;
+}
+td:hover{
+background-color:#027DB3;
+}
+.alt1{
+	width:100%;
+	height:60;
+	padding:10 0 0 0;
+	font-size:15;
+	background-color:#C4C4C4;
+	color:#616161;
+	float:left;
+	
+	font-family:Arial,Helvetica,sans-serif;
+    font-weight: bold;
+}
+.inputtext2{
+	width:400; 
+	border-color:#c6c6c6; 
+	height:50;
+	float:left;
+	box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border: 1px solid #C2C2C2;
+    box-shadow: 1px 1px 4px #EBEBEB;
+    -moz-box-shadow: 1px 1px 4px #EBEBEB;
+    -webkit-box-shadow: 1px 1px 4px #EBEBEB;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+	margin:0 0 0 80;
+	border-right-color:white;
+	text-indent:20;
+	
+}
+.inputbutton2{
+	border-left-color:white;
+	width:100; 
+	border-color:#c6c6c6; 
+	height:50; 
+	float:left;
+	margin:0 0 0 0;
+	box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border: 1px solid #C2C2C2;
+    box-shadow: 1px 1px 4px #EBEBEB;
+    -moz-box-shadow: 1px 1px 4px #EBEBEB;
+    -webkit-box-shadow: 1px 1px 4px #EBEBEB;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+	
+	background-image:url(resim/kayýtol.png);
+	
+}
+.alt2{
+	width:100%;
+	height:230;
+	background-color:#222222;
+	float:left;
+	color:white;
+	font-size:15;
+	text-align:center;
+	font-family:Arial,Helvetica,sans-serif;
+    font-weight: bold;
+}
+body{margin: 0 0;}
+.alt3{
+	float:left;
+	width:100%;
+	height:19;
+	padding:0 0 0 0;
+	background-color:white;
+	text-align:center;
+	font-size:13;
+}

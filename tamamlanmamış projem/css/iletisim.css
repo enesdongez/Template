@@ -1,0 +1,74 @@
+.ana{
+width:990;
+height:900;
+margin: auto;
+}
+.iletisim{
+width:990;
+height:40;
+float:left;
+font-size:22;
+color:gray;
+font-weight:bold;
+font-family:Calibri;
+margin:15 0 5 0;
+}
+.alt{
+width:990;
+height:40;
+float:left;
+margin:10 0 0 0;
+font-size:13;
+color:#666666;
+}
+.alt1{
+width:300;
+height:10;
+float:left;
+margin:0 0 15 0;
+}
+.alt2{
+width:690;
+height:10;
+float:left;
+margin:0 0 15 0;
+}
+.alt3{
+width:990;
+height:100;
+float:left;
+margin:15 0 0 0;
+text-align:center;
+color:blue;
+font-size:18;
+font-family:Calibri;
+font-weight:bold;
+}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: none;}
+a:active {text-decoration: none;}
+hr{
+width:990;
+border-color:#ddd;
+float:left;
+}
+body{
+margin:0 0;
+float:center;
+}
+table{
+border:1 double #B8B8B8;
+width:990;
+height:170;
+border: 1px solid #B8B8B8;
+border-collapse: collapse;
+font-size:12;
+font-family:Calibri;
+}
+tr:hover{
+background-color:#DFDFDF;
+}
+td{
+padding:0 0 0 5;
+}
