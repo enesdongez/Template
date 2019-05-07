@@ -1,0 +1,87 @@
+.menu{
+     width:100%;
+	 height:550;
+	 background-color:yellow;
+}
+.ustpanel1{
+	width:100%;
+	height:62px;
+	float:left;
+	
+	border-bottom:1px solid #CACACA;
+	
+	background-color:#F7F7F7;
+}
+.ustyazipanel1{
+	width:900px;
+	height:30px;
+	float:left;
+	padding:20 0 0 170;
+}
+.yazi11{
+	font-family:Calibri;
+	font-size:30px;
+	color:#00283A;
+	text-decoration: underline;
+}
+.orta1{
+	width:100%;
+	height:400px;
+
+}
+.table21{
+
+	border:1px solid #CACACA;
+	width:500px;
+	height:300px;
+	font-family:Calibri;
+	font-size:20px;
+	color:#111111;
+	font-weight:bold;
+	
+}
+.tableic31{
+	padding:20 0 0 160;
+	
+}
+.tableic41{
+	text-align:center;
+	padding: 8 0 20 0;
+}
+.girisbutton1{
+	width:95;
+	height:35;
+	background-color:#F0931C;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size:20px;
+	color:#552F03;
+	border:1px solid #915000;
+	border-radius:5px;
+}
+.kayitbutton1{
+	width:250;
+	height:35;
+	background-color:#F0931C;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size:20px;
+	color:#552F03;
+	border:1px solid #915000;
+	border-radius:5px;
+}
+.tableic1{
+	padding:20 0 0 40;
+}
+.text1{
+	width:420px;
+	height:35px;
+}
+.alt1{
+	width:100%;
+	height:150px;
+	text-align:center;
+}
+.imgsag1{
+	margin:0 30 0 0;
+}

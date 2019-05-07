@@ -1,0 +1,725 @@
+body{
+	margin:0;
+}
+.tumsayfa{
+	height:100%;
+
+}
+.ustum{
+	width:100%;
+	height:140px;
+	background-color:#00283A;
+	float:left;
+	
+}
+.ustyan1{
+    width:21%;
+    height:120px;
+    float:left;
+    padding:30 0 0 150;
+
+    
+}
+.logo{
+	width:100%;
+	height:60px;
+margin:0 0 16 0;
+	float:left;
+}
+.ustyan1button{
+	width:100%;
+	height:40px;
+
+}
+
+.ustyan2{
+	width:65%;
+	height:130px;
+	float:left;
+	padding:10 0 0 0;
+	
+}
+.ustyan2link{
+	width:100%;
+	height:30px;
+	text-align:right;
+
+}
+.ustyan2simge{
+	width:100%;
+	height:30px;
+	text-align:right;
+margin:0 0 28 0;
+}
+.ustyan2arama{
+	width:100%;
+	height:30px;
+	float:right;
+
+}
+.sitearama{
+	width:1100px;
+	height:36px;
+	float:right;
+	border-radius:7px;
+	font-size:16px;
+	
+}
+.ustyan2yazi{
+	color:white;
+	font-size:17px;
+	font-family:Calibri;
+	margin:0 13 0 0;
+}
+.ustyan2yazi:link {text-decoration: none;}
+.ustyan2yazi:visited {text-decoration: none;}
+.ustyan2yazi:hover {text-decoration: none;}
+.ustyan2yazi:active {text-decoration: none;}
+.orta{
+	width:100%;
+
+	float:left;
+}
+.alt{
+	width:100%;
+	height:350px;
+	float:left;
+	
+}
+.alt1{
+	width:100%;
+	height:200px;
+	float:left;
+	background-color:#33425A;
+}
+.alt2{
+	width:100%;
+	height:50px;
+	float:left;
+	background-color:#00283A;
+}
+.alt3{
+	width:100%;
+	height:50px;
+	float:left;
+	background-color:#F7F7F7;
+}
+.alt4{
+	width:100%;
+	height:50px;
+	float:left;
+	background-color:#FFFFFF;
+}
+.menu{
+     width:100%;
+	 height:550;
+	 background-color:yellow;
+}
+.ustpanel1{
+	width:100%;
+	height:62px;
+	float:left;
+	
+	border-bottom:1px solid #CACACA;
+	
+	background-color:#F7F7F7;
+}
+.ustyazipanel1{
+	width:900px;
+	height:30px;
+	float:left;
+	padding:20 0 0 170;
+}
+.yazi11{
+	font-family:Calibri;
+	font-size:30px;
+	color:#00283A;
+	text-decoration: underline;
+}
+.orta1{
+	width:100%;
+	height:400px;
+
+}
+.table21{
+
+	border:1px solid #CACACA;
+	width:500px;
+	height:300px;
+	font-family:Calibri;
+	font-size:20px;
+	color:#111111;
+	font-weight:bold;
+	
+}
+.tableic31{
+	padding:20 0 0 160;
+	
+}
+.tableic41{
+	text-align:center;
+	padding: 8 0 20 0;
+}
+.girisbutton1{
+	width:95;
+	height:35;
+	background-color:#F0931C;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size:20px;
+	color:#552F03;
+	border:1px solid #915000;
+	border-radius:5px;
+}
+.kayitbutton1{
+	width:250;
+	height:35;
+	background-color:#F0931C;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size:20px;
+	color:#552F03;
+	border:1px solid #915000;
+	border-radius:5px;
+}
+.tableic1{
+	padding:20 0 0 40;
+}
+.text1{
+	width:420px;
+	height:35px;
+}
+.alt12{
+	width:100%;
+	height:150px;
+	text-align:center;
+}
+.imgsag1{
+	margin:0 30 0 0;
+}
+.menu{
+     width:100%;
+	 height:550;
+	 background-color:yellow;
+}
+.ustpanel2{
+	width:100%;
+	height:62px;
+	float:left;
+	
+	border-bottom:1px solid #CACACA;
+	
+	background-color:#F7F7F7;
+}
+.ustyazipanel2{
+	width:900px;
+	height:30px;
+	float:left;
+	padding:20 0 0 170;
+}
+.yazi12{
+	font-family:Calibri;
+	font-size:30px;
+	color:#00283A;
+	text-decoration: underline;
+}
+.orta2{
+	width:100%;
+	height:600px;
+	float:left;
+
+}
+.table12{
+
+	border:1px solid #CACACA;
+	width:500px;
+	height:400px;
+	font-family:Calibri;
+	font-size:20px;
+	color:#111111;
+	margin:0 240 0 340;
+	float:left;
+	padding:0 0 20 0;
+	font-weight:bold;
+}
+.table22{
+
+	border:1px solid #CACACA;
+	width:500px;
+	height:300px;
+	font-family:Calibri;
+	font-size:20px;
+	color:#111111;
+	font-weight:bold;
+	float:left;
+}
+.tableic2{
+	padding:20 0 0 40;
+}
+.tableic22{
+	padding:20 11 0 0;
+	
+}
+.tableic32{
+	padding:20 0 0 150;
+	
+}
+.kayitbutton2{
+	width:80;
+	height:35;
+	background-color:#F0931C;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size:20px;
+	color:#552F03;
+	border:1px solid #915000;
+	border-radius:5px;
+}
+.girisbutton2{
+	width:95;
+	height:35;
+	background-color:#F0931C;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size:20px;
+	color:#552F03;
+	border:1px solid #915000;
+	border-radius:5px;
+}
+.text2{
+	width:420px;
+	height:35px;
+}
+.alt22{
+	width:100%;
+	height:150px;
+	text-align:center;
+}
+.imgsag2{
+	margin:0 30 0 0;
+}
+
+.alt123{
+	width:100%;
+	height:220px;
+	text-align:center;
+}
+
+/*.alt-menu {
+    width:10%;
+    position:relative;
+    float:left;
+}
+
+#acilirmenu{
+	  display: none;
+	 
+	}
+.alt-menu1{
+	 color:black;
+	  width:200px;
+	  height:31px;
+	  background-color:#F0931C;
+	  float:left;
+	  text-align:center;
+	  font-size:16;
+	  padding:9 0 0 0;
+	  border:1px solid black;
+	  border-radius:7;
+}
+.alt-menu2{
+	 color:black;
+	  width:200px;
+	  height:31px;
+	  background-color:#F0931C;
+	  float:left;
+	  text-align:center;
+	  font-size:16;
+	  padding:9 0 0 0;
+	  border:1px solid black;
+	  border-radius:7;
+	
+}
+#menum { display:none; color:red;	}
+#acilirmenu:checked + #menum { display:block;	}
+
+
+#acilirmenu2{
+      display: none;
+	 
+	}
+#menum2 { display:none;	}
+#acilirmenu2:checked + #menum2 { display:block;	}*/
+
+.ustmenubuttonlar ul{
+ list-style-type:none; 
+ color:black;
+
+ margin:0;
+ }
+.ustmenubuttonlar ul li:hover .acilirmenu{
+display:block;
+}
+.acilirmenu{
+	margin:8 0 0 -34;
+	padding:15 0 0 15;
+    width:320px;
+	background-color:white;
+	display:none;
+	border:1px solid black;
+	position:absolute; 
+	border-radius:6px;
+	font-family:Calibri;
+	font-size:25;
+	top:18px;
+}
+.acilirmenu ul{
+
+    width:300px;
+	color:black;
+    list-style-type:none;   
+}
+.acilirmenu li{
+    position: relative;
+	text-indent:-36px;
+	margin:0 0 15 0;
+	font-size:18;
+}
+.acilirmenu li ul{
+
+    position:absolute;
+    list-style-type:none;
+    left:240px;
+    width:180px;
+    display:none;
+    top:0;    
+}
+.acilirmenu li a{
+    height:30px;
+    display: block;
+    text-decoration: none;
+	color:black;
+	
+}
+.acilirmenu li ul li{
+text-indent:36;  
+
+}
+.acilirmenu li:hover ul{
+    display:block;
+}
+.ustbtnbir{
+	cursor:pointer;
+	background-color:#F0931C;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size:15px;
+	color:#552F03;
+	border:1px solid #915000;
+	border-radius:5px;
+	text-align:center;
+	padding:7 32 7 32;
+	margin:0 33 0 -34;
+}
+.ortaust{
+	 width:100%;
+	 height:600px;
+
+
+}
+.ortaustyan1{
+	float:left;
+    width:308px;
+    height:403px;
+	padding:10 0 0 0;
+	margin:0 20 0 150;
+	background-color:#F4F5F7;
+	border:1px solid #D8D8D8;
+}
+.ortaustyan1 ul{
+  
+    margin:0;
+    padding:0;
+    list-style-type:none; 
+	z-index:2;
+}
+.ortaustyan1 li{
+    position: relative;
+	height:44;
+	padding:12 0 0 13;
+font-size:20px;
+	z-index:2;
+font-family:Calibri;
+	
+}
+.ortaustyan1 li:hover{
+	
+	background-color:#CED2DB;
+}
+.ortaustyan1 li ul{
+    position:absolute;,
+    list-style-type:none;
+    left:255px;
+	top:0;
+    width:180px;
+    display:none;
+	
+}
+
+.ortaustyan1 li:hover ul{
+    display:block;
+}
+.ortaustgaleri{
+	float:left;
+	width:74%;
+	height:440px;
+	z-index:-1;
+	margin:20 0 0 0;
+	
+}
+.ortaustgaleriorta{
+width:1350px;
+height:440px;
+float:left;
+z-index:2;
+
+}
+
+.galeributton{
+width:140px;
+height:390px;
+padding:0 0 0 0;
+font-size:80px;
+color:white;
+font-weight:bold;
+z-index:2;
+background-color:transparent;
+opacity:0.8;
+border:0 solid black;
+
+}
+.galeributton2{
+width:140px;
+height:390px;
+padding:0 0 0 0;
+font-size:80px;
+color:white;
+font-weight:bold;
+z-index:2;
+background-color:transparent;
+opacity:0.8;
+border:0 solid black;
+margin:0 0 0 324;
+}
+.galeributton2:hover{
+
+opacity:1;
+}
+.galeributton:hover{
+
+opacity:1;
+}
+.ortaustgaleriyan1 {position:relative }
+.resimYazisi {position:absolute;left:480px;top:141px;margin:8 0 0 0;}
+.resimYazisi2 {position:absolute;left:1317px;top:141px;margin:8 0 0 0;}
+
+.ortaalt{
+	width:100%;
+	height:330px;
+	float:left;
+	margin:0 0 0 0;
+
+	
+}
+.urunleracilir{
+	position: relative;
+	
+}
+.urunleracilir:hover .urunleracilirdiv {
+	display:block;
+	
+}
+
+.urunleracilirdiv{
+	float:left;
+    width:300px;
+    height:400px;
+	border:1px solid black;
+	background-color:white;
+	display:none;
+	position:absolute; 
+	left:-35px;
+	top:25px;
+}
+.urunleracilirdiv ul{
+  
+    margin:0;
+    padding:0;
+    list-style-type:none; 
+	z-index:2;
+}
+.urunleracilirdiv li{
+    position: relative;
+	height:44;
+	padding:12 0 0 13;
+font-size:20px;
+	z-index:2;
+font-family:Calibri;
+	
+}
+.urunleracilirdiv li:hover{
+	
+	background-color:#CED2DB;
+}
+.urunleracilirdiv li ul{
+    position:absolute;,
+    list-style-type:none;
+    left:255px;
+	top:0;
+    width:180px;
+    display:none;
+	
+}
+
+.urunleracilirdiv li:hover ul{
+    display:block;
+}
+.urunlerdizaltalt{
+	width:500px; height:500px; background-color:red;
+	
+}
+.ortaaltgaleri{
+	border:1px solid #D8D8D8;
+	width:393px;
+	height:300px;
+	float:left;
+	margin:0 18 0 0;
+}
+.profilyazi{
+	font-family:Calibri;
+	font-size:19px;
+	color:#4D4D53;
+	cursor:pointer;
+	text-decoration:none;
+}
+.profilyazi:hover{
+	color:#F19350;
+}
+.profilresim{
+	margin:13 10 0 20;
+	width:20px;
+	height:20px;
+}
+.ozellestirbutton{
+	padding:3 9 3 9;
+	text-decoration:none;
+	background-color:#F0931C;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size:14px;
+	color:#552F03;
+	border:1px solid #915000;
+	border-radius:5px;
+}
+.ozellestirbuttonust{
+
+	text-decoration:none;
+	background-color:#F0931C;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size:16px;
+	color:#552F03;
+	border:1px solid #915000;
+	border-radius:5px;
+	cursor:pointer;
+}
+.tabs{
+	position: relative;
+
+}
+.tabs .tab{
+	float: left;
+	
+}
+.tabs .tab .content{
+	position: absolute;
+	background-color: white;
+	left: 0px;
+	width: 1600px;
+	height:540px;
+	border: 1px #ddd solid;
+	margin:10 10 10 0;	
+	color:#4d4d4d;
+	font-size:20px;
+	overflow-y: auto;
+}
+.checkboxtab{
+	display: none;
+}
+.tab label{
+	padding:10px;
+	margin-right: 10px;
+		cursor:pointer;
+	color:#4d4d4d;
+	font-size:20px;
+}
+
+.checkboxtab:checked ~ label{
+background-color:#EEEEE;
+	border: 1px #ddd solid;
+}
+
+.checkboxtab:checked ~ .content{
+z-index:1;	
+}
+
+.yorumbutton{
+	width:140;
+	height:35;
+	background-color:#F0931C;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size:20px;
+	color:#552F03;
+	border:1px solid #915000;
+	border-radius:5px;
+	float:right;
+}
+
+.yorumtext{
+	width:1520px;
+	height:55px;
+	font-size:15px;
+}
+.yorumyazi{
+	color:#111111;
+	font-family:Calibri;
+	font-size:19px;
+	
+}
+.yorumkullanici{
+	color:#737373;
+	font-family:Calibri;
+	font-size:17px;
+	
+}
+.tekniktable{
+	width:100%;
+	height:400px;
+	border:0px solid #F5F5F5;
+	margin:0px;
+	padding:0px;
+}
+.tekniktable td{
+	border:1px solid #F5F5F5;
+	
+}
+
+
+
+
+
+
+
+
+

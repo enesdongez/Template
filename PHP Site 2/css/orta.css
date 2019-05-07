@@ -1,0 +1,87 @@
+.kendintoplaustpanel1{
+	width:100%;
+	height:62px;
+	float:left;
+	
+	border-bottom:1px solid #CACACA;
+	
+	background-color:#F7F7F7;
+}
+.kendintoplaustyazipanel1{
+	width:900px;
+	height:30px;
+	float:left;
+	padding:20 0 0 170;
+}
+.kendintoplayazi11{
+	font-family:Calibri;
+	font-size:30px;
+	color:#00283A;
+	text-decoration:underline;
+}
+.kendintoplatum{
+	width:100%;
+	height:1600px;
+
+
+}
+.ortaurunsec{
+	float:left;
+	width:1050px;
+	height:1300px;
+	margin:15 10 0 200;
+	border:5px solid #F4F4F4;
+	overflow-y: scroll;
+}
+.ortaurungonder{
+	width:470px;
+	height:600px;
+	float:left;
+
+	margin:15 0 0 0;
+}
+.ortaurungoster{
+	width:465px;
+	height:430px;
+	overflow-y: scroll;
+
+	
+}
+.ortaurunfiyatgoster{
+	width:465px;
+	height:160px;
+	border:1px solid black;
+	background-color:#f4f4f4;
+	margin:5 0 0 0;
+	
+}
+.urundıspanel{
+	width:1017px;
+	height:50px;
+	margin:6 0 0 3;
+	background-color:#f4f4f4;
+	padding:20 0 0 5;
+	font-size:18;
+	font-family:Calibri;
+}
+.listeyeekle{
+	text-decoration:none;
+	color:black;
+	border-radius:7px;
+	margin:0 0 0 50;
+	font-size:15px;
+	font-family:Calibri;
+	background-color:#EE8D17;
+	padding:3 10 3 15;
+	border:1px solid black;
+	
+}
+
+
+
+
+
+
+
+
+
